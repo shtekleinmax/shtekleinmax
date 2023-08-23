@@ -1,6 +1,6 @@
 ### Hi there. 👋 I'm Maxim, full stack developer
 
-### Связь со мной:
+### My contacts:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/shteklein/">
@@ -10,7 +10,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/37_social-512.png" height="26px" alt="Telegram"/>
 </div>
 
-###  Skills:
+### Skills:
 
 <img align="left" alt="Laravel" height="26px" src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/laravel-256.png" />
 <img align="left" alt="PHP" height="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" />
