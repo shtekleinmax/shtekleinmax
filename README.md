@@ -8,6 +8,10 @@
   </a>
   <a href="https://t.me/shteklein_maxim">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/37_social-512.png" height="26px" alt="Telegram"/>
+  </a>
+  <a href="mailto:shteklein@gmail.com">
+    <img src="https://cdn4.iconfinder.com/data/icons/app-custom-ui-1/48/Envelope-512.png" height="26px" alt="Telegram"/>
+  </a>
 </div>
 
 ### Skills:
