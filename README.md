@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there. 👋 I'm Maxim, full stack developer
 
-<!--
-**shtekleinmax/shtekleinmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Связь со мной:
 
-Here are some ideas to get you started:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/shteklein/">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height="26px" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/shteklein_maxim">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/37_social-512.png" height="26px" alt="Telegram"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Skills:
+
+<img align="left" alt="Laravel" height="26px" src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/laravel-256.png" />
+<img align="left" alt="PHP" height="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" />
+<img align="left" alt="Vue" height="26px" src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-vue-512.png" />
+<img align="left" alt="JavaScript" height="26px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"/>
+<img align="left" alt="HTML5" height="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" />
+<img align="left" alt="CSS3" height="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-512.png"/>
